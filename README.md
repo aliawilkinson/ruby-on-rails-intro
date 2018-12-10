@@ -1,19 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version 2.3.7p456
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
+* System dependencies: mysql, ruby, rails, brew (mac)
 
 * Configuration
 
 * Database creation
 
-* Database initialization
+* Database initialization: 
 
 * How to run the test suite
 
@@ -21,4 +16,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
